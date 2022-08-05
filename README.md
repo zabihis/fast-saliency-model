@@ -11,6 +11,6 @@ paper URL: https://doi.org/10.1016/j.image.2022.116671
 2-  The ".h" file is the weights of the trained model.
 
 
-The project codes was rewriten to be used in google Colab.
-
-Copy the files in your google drive in "Colab Notbooks" folder. 
+- The project codes was rewriten to be used in google Colab.
+- Copy the files in your google drive in "Colab Notbooks" folder. 
+- To apply the model on your images, you should copy your images in the folder specified by "input_imgs_path".
