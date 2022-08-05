@@ -1,7 +1,7 @@
 # Fast Saliency Model
 URL: https://github.com/cyberstray/fast-saliency-model/
 
-Implementation of  the paper: "A compact deep architecture for real-time saliency prediction"
+Implementation of  the paper: "A compact deep architecture for real-time saliency prediction".
 paper URL: https://doi.org/10.1016/j.image.2022.116671
 
 # Folder includes:
