@@ -15,7 +15,7 @@ paper URL: https://doi.org/10.1016/j.image.2022.116671
 - To apply the model to your images, you should copy your images in the folder specified by "input_imgs_path".
 
 
-#Use following Reference: 
+# Use following Reference: 
 
 @article{zabihi2022compact,
   title={A compact deep architecture for real-time saliency prediction},
