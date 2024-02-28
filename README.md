@@ -19,7 +19,7 @@ paper URL: https://doi.org/10.1016/j.image.2022.116671
 
 @article{zabihi2022compact,
   title={A compact deep architecture for real-time saliency prediction},
-  author={Zabihi, Samad and Tavakoli, Hamed R and Borji, Ali and Mansoori, Eghbal},
+  author={Zabihi, Saman and Tavakoli, Hamed R and Borji, Ali and Mansoori, Eghbal},
   journal={Signal Processing: Image Communication},
   volume={104},
   pages={116671},
